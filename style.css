@@ -1,0 +1,42 @@
+#logo{
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+span{
+    float: right;
+
+}
+#one{
+    float: left;
+    margin-inline-end: 50px;
+
+}
+#two{
+    float: right;
+    margin-inline-end: 50px;
+  
+}
+#three{
+    float: right;
+    margin-inline-end: 50px;
+    
+}
+#center{
+    text-align: center;
+    margin-top: 100px;
+}
+#centre{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+footer{
+    text-align:center;
+    background-color: black;
+    color: blanchedalmond;
+    border: solid black;
+    border-radius: 10px;
+}
